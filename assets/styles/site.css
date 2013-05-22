@@ -2,7 +2,8 @@
   width: 900px
 }
 .page-header {
-  height: 40px
+  height: 43px;
+  background-color: white;
 }
 .logo {
   position: absolute;
