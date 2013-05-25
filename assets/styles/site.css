@@ -4,6 +4,7 @@
 .page-header {
   height: 43px;
   background-color: white;
+  margin-bottom: 10px;
 }
 .logo {
   position: absolute;
@@ -16,7 +17,7 @@ p.credit {
   margin-top: 12px
 }
 .jumbotron {
-  margin: 60px 0;
+  margin: 40px 0;
   text-align: center;
 }
 .jumbotron h1 {
