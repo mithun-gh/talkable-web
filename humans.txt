@@ -1,0 +1,13 @@
+/* TEAM */
+	Web developer: Mithun Rathinasamy
+	Twitter: @mithunius
+	From: Coimbatore, Tamil Nadu, India
+
+/* THANKS */
+	Google Drive for free Survey -> https://drive.google.com/
+	GitHub Pages for free hosting -> https://pages.github.com/
+	Kontactr for free contact form -> http://kontactr.com/
+
+/* SITE */
+	Standards: HTML5, CSS3
+	Components: Bootstrap, jQuery, Fontawesome
