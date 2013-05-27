@@ -32,6 +32,15 @@ p.credit {
 p.muted.credit {
   display: inline
 }
+
+#timeline dl dt {
+  margin-bottom: 2px;
+}
+
+#timeline dd {
+  margin-bottom: 16px;
+}
+
 /* Sticky footer styles
       -------------------------------------------------- */
 html,
