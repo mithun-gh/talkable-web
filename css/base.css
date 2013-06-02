@@ -57,6 +57,10 @@ h1 small {
     background-color: #f5af2f;
 }
 
+#timeline dt {
+    margin-top: 16px;
+}
+
 /* Sticky footer styles
    ----------------------- */
 
