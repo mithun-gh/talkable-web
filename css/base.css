@@ -1,0 +1,108 @@
+* {
+    border-radius: 0 !important;
+}
+
+p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+a {
+    color: #08c;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #005580;
+    text-decoration: underline;
+}
+
+#splash {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.logo {
+    display: block;
+    position:relative;
+    z-index:-1;
+    
+    margin: 0 auto 26px;
+    overflow: hidden;
+    text-indent: -9999em;
+}
+
+h1.splash-content {
+    font-size: 90px;
+    font-weight: 900;
+    letter-spacing: -2px;
+    line-height: 100px;
+}
+
+h1 small {
+    display: block;
+    letter-spacing: 0px;
+}
+
+.command-buttons {
+    margin-top: 70px;
+    margin-left: 95px;
+}
+
+.command-buttons .btn-inverse {
+    background-color: #f39c12;
+}
+
+.command-buttons .btn-inverse:hover {
+    background-color: #f5af2f;
+}
+
+#timeline dt {
+    margin-top: 16px;
+}
+
+/* Sticky footer styles
+   ----------------------- */
+
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by it's height */
+  margin: 0 auto -60px;
+}
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+  height: 60px;
+  width: 900px;
+}
+
+#footer {
+  height: 0;
+  margin-left: auto;
+  margin-right: auto;
+  border-top: 1px solid #eee;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) { 
+    #footer {
+      margin-left: -20px;
+      margin-right: -20px;
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+}
+
+#footer > .container {
+  padding-top: 16px
+}
