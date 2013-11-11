@@ -4,10 +4,7 @@
 	From: Coimbatore, Tamil Nadu, India
 
 /* THANKS */
-	DesignModo for Flat UI Free -> http://designmodo.com/flat-free/
-	Google Drive for free Survey -> https://drive.google.com/
-	GitHub Pages for free hosting -> https://pages.github.com/	
+	Microsoft BizSpark -> http://microsoft.com/BizSpark/		
 
 /* SITE */
 	Standards: HTML5, CSS3
-	Components: Bootstrap, jQuery, Fontawesome
